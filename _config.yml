@@ -1,0 +1,8 @@
+locale: de
+url: "https://gentlesharkstudios.github.io"
+title: "Gentleshark"
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+theme: minimal-mistakes-jekyll
