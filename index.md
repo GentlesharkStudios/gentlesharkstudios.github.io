@@ -1,7 +1,7 @@
-# Welcome to Gentleshark
+# Willkommen bei Gentleshark
 
-**Indie game studio based in Germany.**
+**Indie-Entwicklerstudio aus Deutschland.**
 
-We create games with heart and narrative depth. Currently working on our first title.
+Wir entwickeln Spiele mit Charakter und Tiefe. Aktuell arbeiten wir an unserem ersten Titel.
 
-[Learn more](/en/about/) | [Projects](/en/projects/) | [Contact](/en/contact/)
+[Mehr erfahren](/de/about/) | [Projekte](/de/projects/) | [Kontakt](/de/contact/)
